@@ -1,4 +1,4 @@
-
+ 
 # Setting up a Professional Data Science Environment
 
 ## Introduction
